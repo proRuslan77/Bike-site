@@ -465,6 +465,9 @@ p{
     .bike__inner{
         flex-wrap: wrap;
     }
+    .bike__text{
+        max-width: 100%;
+    }
 }
 
 @media (max-width: 991px){
